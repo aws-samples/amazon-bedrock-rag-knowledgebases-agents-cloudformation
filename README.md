@@ -183,7 +183,7 @@ CloudFormation template and then deleting the CloudFormation stack.
 ## Conclusion
 
 In this codesample, we demonstrated how to create an enterprise ready RAG solution
-using a combination of AWS services using CloudFormation. 
+using a combination of AWS services and CloudFormation. 
 
 
 
