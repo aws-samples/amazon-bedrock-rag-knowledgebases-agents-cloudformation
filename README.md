@@ -2,7 +2,7 @@
 
 # Title
 
-Build a serverless RAG application using Amazon Bedrock KnowledgeBase , Amazon Bedrock agents and OpenSearch Serverless. 
+Quickly deploy a serverless RAG application using Amazon Bedrock KnowledgeBase , Amazon Bedrock agents and OpenSearch Serverless. 
 
 # Introduction
 
