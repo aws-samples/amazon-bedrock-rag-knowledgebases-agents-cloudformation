@@ -23,7 +23,7 @@ The implementation consists an Amazon S3 as the datasource which stores your dat
 
 # Solution Overview
 
-The information is stored as HTML files within an S3 bucket, serving as the primary data source for the Amazon Bedrock Knowledge Base. Subsequently, the Bedrock knowledge base agent reads and break down these files into smaller segments, encoding them into vectors using Amazon Titan Text Embeddings V1. The encoded segments are stored as index within an OpenSearch Serverless Collection. The RAG functionality is applied within the console, enabling questions to posed to the Claude Model based on the documents retrieved from OpenSearch Serverless using RAG approach. 
+The information is stored as HTML files within an S3 bucket, serving as the primary data source for the Amazon Bedrock Knowledge Base. Subsequently, the Bedrock knowledge base agent reads and break down these files into smaller segments, encoding them into vectors using Amazon Titan Text Embeddings V1. The encoded segments are stored as index within an OpenSearch Serverless Collection. The RAG functionality is applied within the console, enabling questions to be posed to the Claude Model based on the documents retrieved from OpenSearch Serverless using RAG approach. 
 
 
 The following figure represents the high-level architecture of the proposed solution : 
