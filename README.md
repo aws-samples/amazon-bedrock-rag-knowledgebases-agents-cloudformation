@@ -170,6 +170,9 @@ Use the **trace** to track the agent's path from the user input to the response 
 
 **Note** if the Agent is taking time to generate recommendations , navigate to Amazon Bedrock Knowledge bases and resync the data source and try again.
 
+# Deploy the Agent
+In this workshop we have deployed a working draft version(DRAFT). To deploy the agent into your application , follow the steps here : 
+https://docs.aws.amazon.com/bedrock/latest/userguide/agents-deploy.html
 
 ## Clean up
 
