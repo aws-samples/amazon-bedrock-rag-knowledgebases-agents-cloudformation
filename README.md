@@ -28,7 +28,7 @@ The information is stored as HTML files within an S3 bucket, serving as the prim
 
 The following figure represents the high-level architecture of the proposed solution : 
 
-![Architecture](img/Architecture.png){#fig-architecture}
+![Architecture](img/Architecture.png)
 
 
 As illustrated in the architecture diagram, we use the following AWS
